@@ -1,0 +1,8 @@
+{
+  "name": "heroku node github test",
+  "description": "test",
+  "repository": "https://github.com/filmatop/heroku-node",
+  "logo": "",
+  "keywords": ["hej"],
+  "image": ""
+}
